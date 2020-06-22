@@ -1,0 +1,5 @@
+id,name,repo_url,local_path
+55337,test_folder,git@github.com:AFNetworking/AFNetworking.git,/home/bob/Development/flawfinder_repo/raw/test_folder
+12741,classpath1,git://git.savannah.gnu.org/git/classpath,
+12731,test_folder1,git://git.savannah.gnu.org/git/classpath,/home/bob/Development/flawfinder_repo/raw/test_folder1
+44825,test_folder2,git@github.com:openSUSE/open-build-service.git,/home/bob/Development/flawfinder_repo/raw/test_folder2
